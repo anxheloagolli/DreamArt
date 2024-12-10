@@ -27,12 +27,16 @@ h4{
 .prgs{
     font-family: serif;
     text-decoration: none;
+    
 }
 footer{
     background-size: 100%;
 }
 .navbar{
     background-color: rgb( 33, 37, 41);
+}
+.section{
+    text-align: center;
 }
     
     

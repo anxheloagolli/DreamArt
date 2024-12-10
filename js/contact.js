@@ -11,6 +11,6 @@ sms.textContent = "*Fill all the fields"
 sms.style.color = "red"
 sms.style.fontFamily = "sun-serif"
 }else{
-    sms.textContent = "Thank you" + emri + " " +mbiemri+ "!";
+    sms.textContent = "Thank you" +" " + emri + " " +mbiemri+ "!";
 }
 }
